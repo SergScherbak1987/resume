@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lato', sans-serif;
+}
+.all {
+    max-width: 750px;
+    margin: auto;
+}
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 1);
+}
+.info p {
+    color: #86898f;
+    letter-spacing: 0.5px;
+    }
+
+    .prof {
+        background-color: rgb(247, 248, 211);
+        padding: 10px 20px;
+        border: 5px;
+        margin: 10px;
+        border-radius: 20px;
+    }
+
+ .hobbi {
+    background-color: rgb(220, 250, 211);
+    padding: 10px 20px;
+    border: 5px;
+    margin: 10px;
+    border-radius: 20px;
+ }
+ .jab {
+    background-color: rgb(202, 239, 248);
+    padding: 10px 20px;
+    border: 5px;
+    margin: 10px;
+    border-radius: 20px;
+ }
+
+ .table {
+     width: 100%;
+        
+ }
+ .table td {
+     padding-bottom: 10px;
+ }
+
+ .form label {
+     display: block;
+     font-size: 14px;
+     color: #86898f;
+ }
+
+ .form input {
+     width: 100%;
+     box-sizing: border-box;
+     border: none;
+     border-bottom: 1px solid #ccc;
+     color: black;
+     padding: 15px 0px 10px;
+     font-family: inherit;
+ }
+ .btn {
+     background: black;
+     padding: 15px 20px;
+     color: white;
+     border: none;
+     font-family: inherit;
+     cursor: pointer;
+ }
